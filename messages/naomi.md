@@ -48,4 +48,42 @@ My overseas travel includes China and Japan. When I was ten years old I lived in
 
 海外なら中国と日本に行ったがあります。私が10歳の時中国一年間に住んでいました。でも、楽しみがありませんでした。おそらく私は若いです。どのような食べ物が好きなんですか？
 
-## them:
+## them: Dec 5 02:31 PM
+
+I like bubble tea.
+
+# me: Dec 5 04:22 PM
+
+Ah, is that so? Is bubble tea popular in Japan?
+そうですね？バブルティーは日本に人気ですか？
+
+# them: Dec 5 10:17 PM
+
+はい、すごく人気ですよ！ジュリアスさんの国ではどうですか？
+Yes, it is. How about in your country?
+
+# me: Dec 6 07:19 AM
+
+添削：あります。
+
+There are some places where bubble tea is popular. For example, in the city or in Chinatown, but not everyone know what bubble tea is。Certainly, bubble tea will become more popular as our Asian population increases.
+
+いつかの場所にバブルティーが人気です。例えば主の都市と中華街ですけど、バブルティーは誰もが知らない。確かに、バブルティはオーストラリアのアジア人口が増加するにつれて人気が高い。
+
+# them: Dec 9 10:08 AM
+
+へー、そうなんですね。ジュリアスさんはどんな食べ物がすきですか？
+That is interesting! What is your favorite food?
+more
+都市部や中華街ではバブルティーは人気です。でもみんながバブルティーのことを知っているわけではありません。バブルティはオーストラリアのアジア人口が増加するにつれて人気が高まっていると思います。
+
+# me:
+
+添削：
+That's interesting! What's your favorite food? (using 「'」 is a lot more natural for casual speech)
+
+イタリア料理は一番が気に入りの料理です。　子どものころは週末にお父さんは
+
+お父さん
+
+
